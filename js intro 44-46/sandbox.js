@@ -14,5 +14,3 @@ console.log(paras [1]);
 
 const errors = document.querySelectorAll('.error')
 console.log(errors);
-
-test test
